@@ -41,6 +41,7 @@ namespace WebApplication1.Controllers
         [HttpGet,Route("Code")]
         public string Code(string code)
         {
+            string token;
             using (HttpClient httpClient= new HttpClient())
             {
                 var postUrl = new System.Uri("https://secure.meetup.com/oauth2/access");
@@ -53,14 +54,19 @@ namespace WebApplication1.Controllers
                 paramList.Add(new KeyValuePair<string, string>("code", code));
                 var requestBody = new FormUrlEncodedContent(paramList);
                 var result = httpClient.PostAsync(postUrl, requestBody).Result.Content.ReadAsStringAsync().Result;
-                var token = JsonConvert.DeserializeObject<Dictionary<string,string>>(result)["access_token"];
+                token = JsonConvert.DeserializeObject<Dictionary<string,string>>(result)["access_token"];
             }
 
             using (HttpClient httpClient = new HttpClient())
             {
                 httpClient.BaseAddress = new Uri("https://api.meetup.com/2/open_events");
                 var param = "?topic=photo&time=,1d";
-                httpClient.DefaultRequestHeaders.Add("", "");
+                httpClient.DefaultRequestHeaders.Add("Authorization", token);
+                var response = httpClient.GetAsync(param).Result;
+                if (response.IsSuccessStatusCode)
+                {
+                    var result = response.Content.ReadAsStringAsync().Result;
+                }
             }
 
 

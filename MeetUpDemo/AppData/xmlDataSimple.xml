@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<results>
+	<head>
+		<next>https://api.meetup.com/2/open_events.xml?and_text=False&amp;offset=1&amp;format=xml&amp;limited_events=False&amp;topic=photo&amp;page=800&amp;radius=25.0&amp;desc=False&amp;status=upcoming</next>
+		<method>OpenEvents</method>
+		<total_count>2552</total_count>
+		<link>https://api.meetup.com/2/open_events.xml</link>
+		<count>799</count>
+		<description>Searches for recent and upcoming public events hosted by Meetup groups. Its search window  is the past one month through the next three months, and is subject to change. Open Events is optimized to search for current events by location, category, topic, or text, and only lists Meetups that have **3 or more RSVPs**. The number or results returned with each request is not guaranteed to be the same as the page size due to secondary filtering. If you're looking for a particular event or events within a particular group, use the standard [Events](/meetup_api/docs/2/events/) method.</description>
+		<lon>None</lon>
+		<title>Meetup Open Events v2</title>
+		<url>https://api.meetup.com/2/open_events.xml?and_text=False&amp;offset=0&amp;format=xml&amp;limited_events=False&amp;topic=photo&amp;page=800&amp;radius=25.0&amp;desc=False&amp;status=upcoming</url>
+		<id />
+		<updated>Tue Apr 30 08:00:31 EDT 2019</updated>
+		<lat>None</lat>
+	</head>
+	<items>
+		<item>
+			<utc_offset>-14400000</utc_offset>
+			<venue>
+				<zip>23060</zip>
+				<country>us</country>
+				<localized_country_name>USA</localized_country_name>
+				<city>Glen Allen</city>
+				<address_1>4024 Cox Rd</address_1>
+				<lon>-77.583920</lon>
+				<name>4024 Cox Rd</name>
+				<id>26065395</id>
+				<state>VA</state>
+				<lat>37.648370</lat>
+				<repinned>True</repinned>
+			</venue>
+			<rsvp_limit>16</rsvp_limit>
+			<headcount>0</headcount>
+			<description>&lt;p&gt;West End Breakfast/Networking is held on Tuesday mornings at Boychik's Deli near Innsbrook, located right next door to Capital Ale. This is a time to connect with your fellow photographers to discuss what and where you've been shooting and get answers to any photography questions or problems you've been having. Great way to start out your day talking photography! If we finish up early, we could plan head out from there for a shoot. Post any ideas you might have.&lt;/p&gt; &lt;p&gt;If you can't get enough of talking photography, you are welcome to attend either group. This will have the same informal feel as Dave's meetup in Midlothian but if you have a specific question to discuss, post in the comments and we'll take care of it.&lt;/p&gt; &lt;p&gt;This is a great introduction to RPMG for your friends interested in photography. Bring a guest!&lt;/p&gt;</description>
+			<yes_rsvp_count>6</yes_rsvp_count>
+			<duration>7200000</duration>
+			<id>xzwhrqyzgbnc</id>
+			<photo_url>https://secure.meetupstatic.com/photos/event/5/d/4/e/global_478103886.jpeg</photo_url>
+			<group>
+				<created>1135799270000</created>
+				<group_lon>-77.4599990845</group_lon>
+				<join_mode>approval</join_mode>
+				<name>The Richmond Photography Meetup Group</name>
+				<id>217552</id>
+				<urlname>richmondphotography</urlname>
+				<group_lat>37.5499992371</group_lat>
+				<who>Photo Geeks</who>
+			</group>
+			<visibility>public</visibility>
+			<waitlist_count>0</waitlist_count>
+			<created>1548679916000</created>
+			<maybe_rsvp_count>0</maybe_rsvp_count>
+			<how_to_find_us>We'll have a table set up for our group and the hostess can direct you. </how_to_find_us>
+			<event_url>https://www.meetup.com/richmondphotography/events/258581810/</event_url>
+			<name>West End Breakfast/Networking</name>
+			<time>1556627400000</time>
+			<updated>1549471716000</updated>
+			<status>upcoming</status>
+		</item>
+		<item>
+			<utc_offset>-14400000</utc_offset>
+			<venue>
+				<country>US</country>
+				<localized_country_name>USA</localized_country_name>
+				<city>Tampa</city>
+				<address_1>1001 North Florida Avenue</address_1>
+				<lon>-82.458870</lon>
+				<name>The Portico</name>
+				<id>25547457</id>
+				<lat>27.952770</lat>
+				<repinned>False</repinned>
+			</venue>
+			<headcount>0</headcount>
+			<description>&lt;p&gt;I'm often asked if these meetings are for pros or advanced amateurs and they are not! Everyone is welcome, beginner, pro and all of us in between. Bring your questions and get real answers from certified teachers, working professionals and retired pros. Every Tuesday we show on a HUGE screen, tutorials on software, explain how to get discounts on gear from B &amp;amp; H Photos and discounted software as well.&lt;/p&gt; &lt;p&gt;This meetup has been going strong for over 7 years and averages 15 plus members at each meeting. Many of the regulars don't RSVP, so if you're joining us for the first time, please don't worry about the low RSVP count. We have a great time at this weekly meetup and I hope you'll join us for some fun, learning and great coffee and snacks&lt;/p&gt; &lt;p&gt;Bring prints, DVD's, or Thumb Drives and we'll review pictures and enjoy our favorite hot/cold beverage. Come early or come late for the many exciting images shown by members and guest. All are welcome.&lt;/p&gt; &lt;p&gt;Questions are welcome and if you have specific questions on your camera or lens, please bring them with you (and your owners manual). This is a free meeting that is offered on a weekly basis to all our members and their guests.&lt;/p&gt; &lt;p&gt;Upcoming 2018 FCCP PhotoTours&lt;/p&gt; &lt;p&gt;Ghost Towns &amp;amp; Spring Wildflowers, Western Montana — May 16 ~ 22, 2018 ( &lt;a href="https://www.meetup.com/Florida-Center-Creative-Photography/events/242874394/" class="linkified"&gt;https://www.meetup.com/Florida-Center-Creative-Photography/events/242874394/&lt;/a&gt; )&lt;/p&gt; &lt;p&gt;Ghost Towns &amp;amp; Spring Wildflowers, Western Montana — May 23 ~ 29, 2018 ( &lt;a href="https://www.meetup.com/Florida-Center-Creative-Photography/events/246175160/" class="linkified"&gt;https://www.meetup.com/Florida-Center-Creative-Photography/events/246175160/&lt;/a&gt; )&lt;/p&gt; &lt;p&gt;Yellowstone/Tetons Wildlife with Fall Colors — September 19 ~ 25, 2018 ( &lt;a href="https://www.meetup.com/Florida-Center-Creative-Photography/events/244223235/" class="linkified"&gt;https://www.meetup.com/Florida-Center-Creative-Photography/events/244223235/&lt;/a&gt; )&lt;/p&gt; &lt;p&gt;Yosemite, Light and Landscapes — October 24 ~ 30, 2018 ( &lt;a href="https://www.meetup.com/Florida-Center-Creative-Photography/events/244643761/" class="linkified"&gt;https://www.meetup.com/Florida-Center-Creative-Photography/events/244643761/&lt;/a&gt; )&lt;/p&gt; &lt;p&gt;Yellowstone in Winter — Feb/March 2019&lt;/p&gt; &lt;p&gt;Ghost Towns &amp;amp; Spring Wildflowers, Western Montana — May 2019&lt;/p&gt; &lt;p&gt;Yellowstone/Tetons Wildlife with Fall Colors — September 2019&lt;/p&gt; &lt;p&gt;Fall Colors &amp;amp; Lighthouses, Acadia National Park/Portland — October 2019&lt;/p&gt; &lt;p&gt;Polar Bears &amp;amp; Northern Lights, Churchill, MB — Oct/Nov 2019&lt;/p&gt; &lt;p&gt;My Recommended Retailers&lt;/p&gt; &lt;p&gt;Where you buy your gear matters. You expect to get what you ordered and you want to pay a low price for it. The retailers I recommend below are the ones I trust for my own purchases.&lt;/p&gt; &lt;p&gt;B &amp;amp; H Photo and Video ( &lt;a href="http://www.bhphotovideo.com/c/buy/Great-Deals/ci/16478/N/4280521071?BI=4308&amp;amp;KW=&amp;amp;KBID=4736" class="linkified"&gt;http://www.bhphotovideo.com/c/buy/Great-Deals/ci/16478/N/4280521071?BI=4308&amp;amp;KW=&amp;amp;KBID=4736&lt;/a&gt; )&lt;/p&gt; &lt;p&gt;Adorama - The Photography People ( &lt;a href="http://www.adorama.com/?kbid=64386" class="linkified"&gt;http://www.adorama.com/?kbid=64386&lt;/a&gt; )&lt;/p&gt; &lt;p&gt;Lensrental.com — Rent the Best Cameras &amp;amp; Lenses Available ( &lt;a href="http://www.pjatr.com/t/TUJGRktHSkJGS0dJS0xCRkpOSkVN" class="linkified"&gt;http://www.pjatr.com/t/TUJGRktHSkJGS0dJS0xCRkpOSkVN&lt;/a&gt; )&lt;/p&gt; &lt;p&gt;Bringing you the activities and this site is now a full time job (typically 60-80 hours per week). Thus, I depend on membership fees and on the commissions received from you using the links on this site to make any purchases. My family and I are grateful for your support! - Jeff&lt;/p&gt; &lt;p&gt;FCCP Membership Options:&lt;/p&gt; &lt;p&gt;Pay Your Monthly/Ann­ual Optional Dues ( &lt;a href="https://www.meetup.com/Florida-Center-Creative-Photography/events/240801300/" class="linkified"&gt;https://www.meetup.com/Florida-Center-Creative-Photography/events/240801300/&lt;/a&gt; )&lt;/p&gt;</description>
+			<yes_rsvp_count>6</yes_rsvp_count>
+			<duration>7200000</duration>
+			<id>srmfcqyzgbnc</id>
+			<photo_url>https://secure.meetupstatic.com/photos/event/c/5/6/4/global_472010532.jpeg</photo_url>
+			<group>
+				<created>1230218609000</created>
+				<group_lon>-82.6399993896</group_lon>
+				<join_mode>approval</join_mode>
+				<name>Florida Center for Creative Photography</name>
+				<id>1343044</id>
+				<urlname>Florida-Center-Creative-Photography</urlname>
+				<group_lat>27.8400001526</group_lat>
+				<who>FCCP Members</who>
+			</group>
+			<visibility>public</visibility>
+			<waitlist_count>0</waitlist_count>
+			<created>1533645631000</created>
+			<maybe_rsvp_count>0</maybe_rsvp_count>
+			<how_to_find_us>We will either be in the conversation room on the left or 2nd floor meeting room. Staff will know when you order.</how_to_find_us>
+			<event_url>https://www.meetup.com/Florida-Center-Creative-Photography/events/260881384/</event_url>
+			<name>Coffee &amp; Photography Meeting at The Portico in Tampa</name>
+			<time>1556629200000</time>
+			<updated>1533645631000</updated>
+			<status>upcoming</status>
+		</item>
+	</items>
+</results>
